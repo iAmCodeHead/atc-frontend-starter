@@ -1,4 +1,4 @@
-import { Form, Input, Button, Checkbox } from 'antd';
+import { Form, Checkbox } from 'antd';
 import SimpleForm from "../../molecules/simpleForm";
 import BtnComponent from "../../atoms/buttons";
 

@@ -1,6 +1,4 @@
-import FormComponent from "../organisms/form";
 import { Container } from 'reactstrap';
-import logo from '../../logo.svg';
 import whatsappSvg from "../../whatsapp.svg";
 import linkSvg from "../../link.svg";
 import helpSvg from "../../help.svg";
